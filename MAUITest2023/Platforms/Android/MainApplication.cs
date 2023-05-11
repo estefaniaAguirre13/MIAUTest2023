@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUITest2023;
+namespace MauiTest2023;
 
 [Application]
 public class MainApplication : MauiApplication

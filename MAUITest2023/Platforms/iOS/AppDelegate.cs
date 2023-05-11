@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUITest2023;
+namespace MauiTest2023;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

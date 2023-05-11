@@ -1,4 +1,4 @@
-﻿namespace MAUITest2023;
+﻿namespace MauiTest2023;
 
 public partial class MainPage : ContentPage
 {

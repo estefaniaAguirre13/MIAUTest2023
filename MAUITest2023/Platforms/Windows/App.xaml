@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="MAUITest2023.WinUI.App"
+    x:Class="MauiTest2023.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:MAUITest2023.WinUI">
+    xmlns:local="using:MauiTest2023.WinUI">
 
 </maui:MauiWinUIApplication>

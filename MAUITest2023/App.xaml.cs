@@ -1,4 +1,4 @@
-﻿namespace MAUITest2023;
+﻿namespace MauiTest2023;
 
 public partial class App : Application
 {
@@ -6,6 +6,10 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
-	}
+        var navPage = new NavigationPage(new ContentPageDemo());
+        navPage.BarBackgroundColor = Colors.Chocolate;
+        navPage.BarTextColor = Colors.White;
+        MainPage = navPage;
+
+    }
 }

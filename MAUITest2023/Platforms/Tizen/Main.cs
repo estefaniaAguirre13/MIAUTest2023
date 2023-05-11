@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MAUITest2023;
+namespace MauiTest2023;
 
 class Program : MauiApplication
 {
